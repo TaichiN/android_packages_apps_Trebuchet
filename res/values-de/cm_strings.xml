@@ -14,6 +14,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="application_copyright">Copyright \u00A9 2013 The CyanogenMod Project</string>
     <string name="menu">Menü</string>
     <string name="cancel_target_label">Abbrechen</string>
     <string name="edit_target_label">Bearbeiten</string>
@@ -73,8 +74,13 @@
     <string name="preferences_interface_drawer_summary">Apps und Widgets</string>
     <string name="preferences_interface_drawer_orientation_title">Ausrichtung</string>
     <string name="preferences_interface_drawer_orientation_summary">Scrollrichtung der App-Seiten auswählen</string>
+    <string name="preferences_interface_drawer_apps_category">Apps</string>
     <string name="preferences_interface_drawer_hidden_apps_title">Versteckte Apps</string>
     <string name="preferences_interface_drawer_hidden_apps_summary">Apps auf den App-Seiten verstecken.</string>
+    <string name="preferences_interface_drawer_hidden_apps_shortcuts_title">Versteckte App-Verknüpfungen</string>
+    <string name="preferences_interface_drawer_hidden_apps_shortcuts_summary">Verknüpfungen für versteckte Apps vom Startbildschirm entfernen</string>
+    <string name="preferences_interface_drawer_hidden_apps_widgets_title">Versteckte App-Widgets</string>
+    <string name="preferences_interface_drawer_hidden_apps_widgets_summary">Widgets von versteckten Apps vom Startbildschirm entfernen</string>
     <string name="preferences_interface_drawer_widgets_category">Widget-Seiten</string>
     <string name="preferences_interface_drawer_widgets_join_apps_title">Mit App-Seiten verbinden</string>
     <string name="preferences_interface_drawer_widgets_join_apps_summary">Blättern auch zwischen App- und Widget-Seiten</string>
