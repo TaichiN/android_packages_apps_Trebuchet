@@ -1067,7 +1067,7 @@ public class Launcher extends Activity
                         final int currentPage = pagedView.getNextPage();
                         final int nextPage = currentPage + (currentPage != pagedView.getPageCount() - 1 ? 1 : -1);
 
-
+                        pagedView.snapToPageImmediately(currentPage);
                         pagedView.snapToPage(nextPage, new Runnable() {
                             @Override
                             public void run() {
